@@ -12,3 +12,4 @@ Plânlanan konferansların listesi. (Tarihler güncellenecektir.)
 | WebEnd | | |[webend.org](https://webend.org/)|
 | BİLMÖK | | |[bilmok.org.tr](http://bilmok.org.tr)|
 | Wordpress Fest | - | 11/04/2019|[wpfest.org](https://wpfest.org)|
+| Kodla | - | 26-27-28/04/2019|[kodla.co](https://kodla.co)|
